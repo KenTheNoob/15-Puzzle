@@ -10,4 +10,4 @@ Copy numbers under "initial state in one line:"\
 Solve the 15 puzzle with puzzle.c\
 Compile with gcc puzzle.c -o puzzle\
 Run with ./puzzle <paste puzzle>\
-Example: ./puzzle 1 2 3 4 5 6 7 8 9 0 10 11 13 14 15 12\
+Example: ./puzzle 1 2 3 4 5 6 7 8 9 0 10 11 13 14 15 12
